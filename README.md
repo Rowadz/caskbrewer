@@ -25,6 +25,6 @@ and some other packages:
 
 See this demo of this code
 
-https://mohammedal-rowad.github.io/caskbrewer/
+https://rowadz.github.io/caskbrewer/
 
 > look at the `network` tab and the `DOM`
